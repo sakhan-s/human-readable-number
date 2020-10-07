@@ -3,7 +3,7 @@ module.exports = function toReadable(number) {
 
 
     if (numbers.length === 1) {
-        return NUMBERS0_9[numbers];
+        return num_1[numbers];
     }
     if (numbers.length === 2) {
         if (numbers[0] === '0' && numbers[1] !== '0') {
