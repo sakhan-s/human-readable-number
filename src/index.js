@@ -43,7 +43,7 @@ const num_1 = {
     '9': 'nine'
 };
 
-const mum_2 = {
+const num_2 = {
     '10': 'ten',
     '11': 'eleven',
     '12': 'twelve',
